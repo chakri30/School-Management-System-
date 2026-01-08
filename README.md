@@ -25,7 +25,7 @@ A complete school management system built using the MERN (MongoDB, Express, Reac
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KmSasikumar/Mern-School-Management.git
+git clone https://github.com/chakri30/School-Management-System-.git
 ```
 
 2. Navigate to the project directory:
@@ -81,5 +81,5 @@ npm start
 
 Developed by Group 82
 
-GitHub: [Mern](https://github.com/KmSasikumar)
+GitHub: [Mern](https://github.com/chakri30)
 
